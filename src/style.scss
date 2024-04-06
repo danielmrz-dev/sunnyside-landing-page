@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@use "components/variables";
+@use "components/header";
+@use "components/section-one";
+@use "components/grid";
+@use "components/footer";
+
+body {
+    font-family: variables.$Fraunces;
+    display: grid;
+    position: relative;
+}
+
+
+
